@@ -1,0 +1,18 @@
+Steps to run the program:
+1.Create a project and copy all the java programs below to eclipse.
+		a. For merge sort on generic array : MergeSortUsingGenerics.java 
+		b. For merge sort on int array : MergeSUsingIntArray.java
+		c. O(N^2) sort on int array(Insertion sort) : InsertionSort.java
+		d. Driver program : Driver.java	
+		e. Timer program to know the run time : Timer.java
+2. save the script file(q1_script.sh) in the bin folder of the java project.
+	Details about script file.
+	a. Script file is responsible for running the driver program.
+	b. Stop any sort program if it runs more than 2 minutes.
+	c. In q1_script.sh file, 1: used for MergeSortUsingGenerics
+				 2: used for InsertionSort
+				 3: used for MergeSUsingIntArray 
+3. Save the input file(input.txt) in the same project folder.
+4. To run the driver program and save the output in a file, run the below command in bash terminal (MAC & Linux supported only) :
+	./q1_script.sh &> output.txt  
+	output.txt : is the output file where the output of driver program will be saved.

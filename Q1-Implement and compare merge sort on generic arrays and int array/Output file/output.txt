@@ -1,0 +1,103 @@
+Welcome to Sorting comparison project.
+Run1:
+***********************************
+Size of the input array:16
+----------------------------------
+MergeSort:
+Time: 1 msec.
+Memory: 1 MB / 123 MB.
+Size of the input array:16
+----------------------------------
+InsertionSort:
+Time: 1 msec.
+Memory: 1 MB / 123 MB.
+Size of the input array:16
+----------------------------------
+MergeSortIntArray:
+Time: 0 msec.
+Memory: 1 MB / 123 MB.
+Run2:
+***********************************
+Size of the input array:256
+----------------------------------
+MergeSort:
+Time: 2 msec.
+Memory: 1 MB / 123 MB.
+Size of the input array:256
+----------------------------------
+InsertionSort:
+Time: 2 msec.
+Memory: 1 MB / 123 MB.
+Size of the input array:256
+----------------------------------
+MergeSortIntArray:
+Time: 1 msec.
+Memory: 1 MB / 123 MB.
+Run3:
+***********************************
+Size of the input array: 4096
+----------------------------------
+MergeSort:
+Time: 4 msec.
+Memory: 1 MB / 123 MB.
+Size of the input array:4096
+----------------------------------
+InsertionSort:
+Time: 74 msec.
+Memory: 1 MB / 123 MB.
+Size of the input array:4096
+----------------------------------
+MergeSortIntArray:
+Time: 3 msec.
+Memory: 1 MB / 123 MB.
+Run4:
+***********************************
+Size of the input array:65536
+----------------------------------
+MergeSort:
+Time: 166 msec.
+Memory: 3 MB / 123 MB.
+Size of the input array:65536
+----------------------------------
+InsertionSort:
+Time: 5098 msec.
+Memory: 1 MB / 123 MB.
+Size of the input array:65536
+----------------------------------
+MergeSortIntArray:
+Time: 21 msec.
+Memory: 1 MB / 123 MB.
+Run5:
+***********************************
+Size of the input array:1048576
+----------------------------------
+MergeSort:
+Time: 1211 msec.
+Memory: 25 MB / 123 MB.
+Size of the input array:1048576
+----------------------------------
+InsertionSort:
+Running time more than two minutes: Abort
+Size of the input array:1048576
+----------------------------------
+MergeSortIntArray:
+Time: 231 msec.
+Memory: 9 MB / 123 MB.
+Run6:
+***********************************
+Size of the input array:16777216
+----------------------------------
+MergeSort:
+Time: 21506 msec.
+Memory: 384 MB / 654 MB.
+Size of the input array:16777216
+----------------------------------
+InsertionSort:
+Running time more than two minutes: Abort
+Size of the input array:16777216
+----------------------------------
+MergeSortIntArray:
+Time: 4349 msec.
+Memory: 129 MB / 187 MB.
+Time: 817017 msec.
+Memory: 5 MB / 123 MB.
